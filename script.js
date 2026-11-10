@@ -59,5 +59,5 @@ const districtLinks = {
 function navigate(url) {
   if (!url) return;
 
-  window.location.assign(url);
+  window.open(url, '_blank', 'noopener');
 }
