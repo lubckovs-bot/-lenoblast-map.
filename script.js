@@ -57,7 +57,7 @@ const districtLinks = {
   }
 })();
 function navigate(url) {
-  if (!url) return; // Пока ссылка не указана, район только подсвечивается.
-  // Переход из iframe на страницу верхнего уровня (если браузер разрешает).
-  const a = document.createElement('a'); a.href = url; a.target = '_top'; a.rel = 'noopener'; a.click();
+  if (!url) return;
+
+  window.location.assign(url);
 }
