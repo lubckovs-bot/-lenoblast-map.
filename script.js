@@ -4,7 +4,7 @@ const districtLinks = {
   'volosovsky': "",
   'volkhovsky': "",
   'vsevolozhsky': "",
-  'vyborgsky': "",
+  'vyborgsky': "https://hub.yaklass.ru/teacher_mission",
   'gatchinsky': "https://dzen.ru/?yredirect=true",
   'kingiseppsky': "",
   'kirishsky': "",
