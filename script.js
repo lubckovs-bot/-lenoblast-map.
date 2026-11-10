@@ -5,7 +5,7 @@ const districtLinks = {
   'volkhovsky': "",
   'vsevolozhsky': "",
   'vyborgsky': "",
-  'gatchinsky': "",
+  'gatchinsky': "https://ya.ru",
   'kingiseppsky': "",
   'kirishsky': "",
   'kirovsky': "",
