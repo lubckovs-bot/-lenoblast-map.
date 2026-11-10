@@ -49,7 +49,7 @@ const districtLinks = {
         }
       });
     }
-    container.replaceChildren(document.importNode(svg, true));
+    container.replaceChildren(svg);
     if (found !== Object.keys(districtLinks).length) console.warn('Найдено районов:', found);
   } catch(error) {
     console.error(error);
