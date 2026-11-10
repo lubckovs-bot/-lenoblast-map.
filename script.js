@@ -5,7 +5,7 @@ const districtLinks = {
   'volkhovsky': "",
   'vsevolozhsky': "",
   'vyborgsky': "",
-  'gatchinsky': "https://ya.ru",
+  'gatchinsky': "https://dzen.ru/?yredirect=true",
   'kingiseppsky': "",
   'kirishsky': "",
   'kirovsky': "",
